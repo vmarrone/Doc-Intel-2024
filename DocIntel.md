@@ -14,6 +14,12 @@ In this lab, we will configure Doc Intel to automate the extraction of data from
 
 ## Use Case
 
-ACME Inc. has a mandate to automate as much as possible within their organization to drive efficiency, reduce costs, and improve user experience. They have identified their current 'Visitor Access' process as highly repetitive and time consuming for their front desk staff - currently, visitors provides their ID and the staff manually enters the necessary information, in the Badging Application, so a vistor's badge can be printed.
+ACME Inc. has a mandate to automate as much as possible within their organization to drive efficiency, reduce costs, and improve user experience. They have identified their current 'Visitor Access' process as highly repetitive and time consuming for their agents. In the current process, agents receive the visitor information via email and manually enter the required fields, into the Badging Application, in order for a vistor's badge to be printed.
 
 As a member of ACME Inc.'s Automation Center of Excellence, you have been contacted to automate the task of a collecting visitor information, from their driver’s license or other form of physical identification, in order to streamline the process and reduce manual efforts.
+
+## Doc Intel Admin Workspace
+
+The Doc Intel Admin Workspace is built on the Next experience and provides process owners with an easy way to set up, configure, and monitor their document processing solutions.
+
+In your instance, Navigate to **All > Document Data Extraction Administration > Home**
