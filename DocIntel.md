@@ -22,4 +22,11 @@ As a member of ACME Inc.'s Automation Center of Excellence, you have been contac
 
 The Doc Intel Admin Workspace is built on the Next experience and provides process owners with an easy way to set up, configure, and monitor their document processing solutions.
 
-In your instance, Navigate to **All > Document Data Extraction Administration > Home**
+1. Login to your instance as Admin
+
+2. Navigate to **All > Document Data Extraction Administration > Home** to view the workspace and begin configuring a Doc Intel Use Case:
+
+On the Home tab, the dashboard provides a quick glance at Doc Intel performance for selected Use Cases, as well as helpful resources to get started:
+
+Accuracy of Extraction (%): Based on the number of times the AI's top recommendation is the correct answer(accuracy is expressed as a percentage (%))
+Agent effort (Avg. KPET): Based on the number of Keystrokes an agent performs to extract all field values(measured in Keystrokes per task(KPT))
