@@ -22,7 +22,7 @@ As a member of ACME Inc.'s Automation Center of Excellence, you have been contac
 
 The Doc Intel Admin Workspace is built on the Next experience and provides process owners with an easy way to set up, configure, and monitor their document processing solutions.
 
-1. Login to your instance as Admin
+1. Login to your instance as **Admin**
 
 2. Navigate to **All > Document Data Extraction Administration > Home** to view the workspace and begin configuring a Doc Intel Use Case.
 
@@ -38,6 +38,27 @@ On the Home tab, the dashboard provides a quick glance at Doc Intel performance 
 >
 > - Agent effort (Avg. KPET): Based on the number of Keystrokes an agent performs to extract all field values(measured in Keystrokes per task(KPT))
 
+<br />
+<br />
 
+## Create a use case
 
-3.
+Create a use case so that you can identify a document or set of documents that must be processed together in Document Intelligence. For example, invoices or drivier's licenses.
+
+1. Click on the **Use Cases tab** and then click **New use case**
+
+<br />
+<img width="1912" alt="image" src="https://github.com/vmarrone/Doc-Intel-2024/assets/151243933/9f5a2f37-7b31-424d-a41e-1e7792860dce">
+<br />
+<br />
+
+2. **Define a new use case**
+<br />
+Choose a name that reflects the purpose of the document processing workflow you want to improve and select a table to store the document processing results for this use case:
+
+- **Name:** Visitor Access IDs
+
+- **Location for the extracted data:** Visitor IDs
+
+<img width="810" alt="image" src="https://github.com/vmarrone/Doc-Intel-2024/assets/151243933/44bb3910-d1a0-4b18-95b8-3bdb77f3ad20">
+
