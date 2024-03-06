@@ -62,3 +62,16 @@ Choose a name that reflects the purpose of the document processing workflow you 
 
 <img width="810" alt="image" src="https://github.com/vmarrone/Doc-Intel-2024/assets/151243933/44bb3910-d1a0-4b18-95b8-3bdb77f3ad20">
 
+<br />
+<br />
+
+<br />
+
+3. Click **Save** and then **open the Visitor Access IDs Use Case**
+<br />
+<br />
+
+
+<img width="1913" alt="image" src="https://github.com/vmarrone/Doc-Intel-2024/assets/151243933/01f28db7-91d2-4ab6-b85f-d9de324dc188">
+
+
