@@ -24,17 +24,20 @@ The Doc Intel Admin Workspace is built on the Next experience and provides proce
 
 1. Login to your instance as Admin
 
-2. Navigate to **All > Document Data Extraction Administration > Home** to view the workspace and begin configuring a Doc Intel Use Case:
+2. Navigate to **All > Document Data Extraction Administration > Home** to view the workspace and begin configuring a Doc Intel Use Case.
+
+On the Home tab, the dashboard provides a quick glance at Doc Intel performance for selected Use Cases, as well as helpful resources to get started:
+
 
 <img width="1915" alt="image" src="https://github.com/vmarrone/Doc-Intel-2024/assets/151243933/9b7013cd-fd91-48cc-b0cc-c3c4c3f2a72d">
 
 
+>Note:
+>
+> - Accuracy of Extraction (%): Based on the number of times the AI's top recommendation is the correct answer(accuracy is expressed as a percentage (%))
+>
+> - Agent effort (Avg. KPET): Based on the number of Keystrokes an agent performs to extract all field values(measured in Keystrokes per task(KPT))
 
 
-On the Home tab, the dashboard provides a quick glance at Doc Intel performance for selected Use Cases, as well as helpful resources to get started.
 
--**Accuracy of Extraction (%):** Based on the number of times the AI's top recommendation is the correct answer(accuracy is expressed as a percentage (%))
-
--**Agent effort (Avg. KPET):** Based on the number of Keystrokes an agent performs to extract all field values(measured in Keystrokes per task(KPT))
-
-  
+3.
