@@ -75,3 +75,12 @@ Choose a name that reflects the purpose of the document processing workflow you 
 <img width="1913" alt="image" src="https://github.com/vmarrone/Doc-Intel-2024/assets/151243933/01f28db7-91d2-4ab6-b85f-d9de324dc188">
 
 
+## Create Fields
+
+ Document Intelligence uses fields to identify and extract data from documents. In this section, we will identify which fields should be extracted for our Use Case.
+ <br />
+ <br />
+
+1. Once you've opened the Use Case, **click on Define your fields** at the bottom of the page
+
+<img width="1918" alt="image" src="https://github.com/vmarrone/Doc-Intel-2024/assets/151243933/ff0887a1-eb74-4762-8520-e517b318b836">
