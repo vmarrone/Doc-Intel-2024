@@ -110,7 +110,9 @@ Choose a name that reflects the purpose of the document processing workflow you 
 
    - **Field Name:** Last Name
    - **Target Field**: visitor lastname (visitor_lastname)
-   
+
+<br />
+
    - **Field Name:** DOB
    - **Target Field:** visitor dob (visitor_dob)
 
