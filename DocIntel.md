@@ -77,10 +77,32 @@ Choose a name that reflects the purpose of the document processing workflow you 
 
 ## Create Fields
 
- Document Intelligence uses fields to identify and extract data from documents. In this section, we will identify which fields should be extracted for our Use Case.
+ Document Intelligence uses fields to identify and extract data from documents. In this section, we will identify which fields should be extracted from our document for this Use Case.
  <br />
  <br />
 
 1. Once you've opened the Use Case, **click on Define your fields** at the bottom of the page
 
 <img width="1918" alt="image" src="https://github.com/vmarrone/Doc-Intel-2024/assets/151243933/ff0887a1-eb74-4762-8520-e517b318b836">
+ <br />
+ <br />
+
+2. Select Single Field
+
+<img width="600" alt="image" src="https://github.com/vmarrone/Doc-Intel-2024/assets/151243933/faaec75c-78c9-4d1f-aec1-5fe761386327">
+
+3. Identify which fields should be extracted from our Visitor's IDs and map to the target fields in the table that we've identified for this use case:
+   - **Field Name:** First Name
+   - **Target Table:** visitors (pre-selected)
+   - **Type:** Text
+   - **Target Field:** visitor firstname (visitor_firstname)
+   - **Required:** Keep Checked
+   - **Create More Single Field:** Select this toggle since we are entering multiple fields - it will keep the field screen open after we save.
+   - **Click Save**
+
+4. Repeat the same steps to create fields for:
+- **Field Name:** Last Name
+- **Target Field**: visitor lastname (visitor_lastname)
+
+- **Field Name:** DOB
+- **Target Field:** visitor dob (visitor_dob)
