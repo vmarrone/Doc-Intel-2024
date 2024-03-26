@@ -171,7 +171,9 @@ Now that we have Document Intelligence configured for our use case, we can creat
 <br />
 
 1. **Select the Document Tasks tab** at the bottom of the Use Case page
+
 <br />
+
 2. **Create a document task**
 
 <br />
