@@ -130,6 +130,5 @@ Choose a name that reflects the purpose of the document processing workflow you 
 The extraction modes determine how the data is extracted in the document task. The mode changes the behavior of the fields in the Document Intelligence workspace. There are three types of extraction modes:
 
 <br />
-<br />
 
 <img width="1528" alt="image" src="https://github.com/vmarrone/Doc-Intel-2024/assets/151243933/4b813a5e-f162-400f-aa63-41d63ac5e020">
