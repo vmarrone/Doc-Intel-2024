@@ -67,7 +67,7 @@ Choose a name that reflects the purpose of the document processing workflow you 
 
 <br />
 
-3. Click **Save** and then **open the Visitor Access IDs Use Case**
+3. Click **Save** and then **open the new use case you just created: Visitor Access IDs**
 <br />
 <br />
 
