@@ -133,6 +133,7 @@ The extraction modes determine how the data is extracted in the document task. T
 
 <img width="1528" alt="image" src="https://github.com/vmarrone/Doc-Intel-2024/assets/151243933/4b813a5e-f162-400f-aa63-41d63ac5e020">
 
+<br />
 
 1. In the top right, select the Gear icon to open the Automation Settings:
 
@@ -144,17 +145,16 @@ The extraction modes determine how the data is extracted in the document task. T
 
 2. By default, the Recommendation extraction mode is turned on. Toggle on:
    - Auto-fill mode with 60% for both thresholds
+      - Auto-fill mode will populate the fields as long as Doc Intel has a confidence rate of 60% or higher that the extracted information is correct and will still require an Agent's review.
    - Fully Automated mode with 90% threshold
+      - Fully Automated mode will populate the fields and skip the Agent's review as long as Doc Intel has a confidence rate of 90% or higher that the extracted information is correct.
+
 
 <br />
 
 <img width="800" alt="image" src="https://github.com/vmarrone/Doc-Intel-2024/assets/151243933/9ca43fa4-f057-4da9-b73d-a0802df379b7">
 
 <br />
-
-Auto-fill mode will populate the fields as long as Doc Intel has a confidence rate of 60% or higher that the extracted information is correct and will still require an Agent's review.
-
-Fully Automated mode will populate the fields and skip the Agent's review as long as Doc Intel has a confidence rate of 90% or higher that the extracted information is correct.
 
 3. Click Save
    
