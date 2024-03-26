@@ -170,8 +170,9 @@ Now that we have Document Intelligence configured for our use case, we can creat
 <br />
 <br />
 
-1. Select the Document Tasks tab at the bottom of the Use Case page
-2. Create a document task
+1. **Select the Document Tasks tab** at the bottom of the Use Case page
+<br />
+2. **Create a document task**
 
 <br />
 <br />
@@ -182,11 +183,11 @@ Now that we have Document Intelligence configured for our use case, we can creat
 <br />
 
 
-3. Name the document task: Visitor Test 1
+3. **Name the document task:** Visitor Test 1
     
 <br />
 
-4. Add the Attachment: Upload the Driver's License provided with this lab
+4. **Add the Attachment:** Upload the Driver's License provided with this lab
 
 <br />
 <br />
