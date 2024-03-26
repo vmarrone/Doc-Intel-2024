@@ -134,6 +134,7 @@ The extraction modes determine how the data is extracted in the document task. T
 <img width="1528" alt="image" src="https://github.com/vmarrone/Doc-Intel-2024/assets/151243933/4b813a5e-f162-400f-aa63-41d63ac5e020">
 
 <br />
+<br />
 
 1. In the top right, select the Gear icon to open the Automation Settings:
 
@@ -154,6 +155,7 @@ The extraction modes determine how the data is extracted in the document task. T
 
 <img width="800" alt="image" src="https://github.com/vmarrone/Doc-Intel-2024/assets/151243933/9ca43fa4-f057-4da9-b73d-a0802df379b7">
 
+<br />
 <br />
 
 3. Click Save
