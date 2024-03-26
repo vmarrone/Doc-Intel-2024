@@ -135,6 +135,7 @@ The extraction modes determine how the data is extracted in the document task. T
 
 <br />
 <br />
+<br />
 
 1. In the top right, select the Gear icon to open the Automation Settings:
 
@@ -142,6 +143,8 @@ The extraction modes determine how the data is extracted in the document task. T
 
 <img width="1913" alt="image" src="https://github.com/vmarrone/Doc-Intel-2024/assets/151243933/4090dc7a-2e83-4592-bb1f-d0654af87944">
 
+<br />
+<br />
 <br />
 
 2. By default, the Recommendation extraction mode is turned on. Toggle on:
