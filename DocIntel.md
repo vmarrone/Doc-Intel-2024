@@ -168,6 +168,7 @@ The extraction modes determine how the data is extracted in the document task. T
 Now that we have Document Intelligence configured for our use case, we can create document tasks to review how the AI detected the fields that we've defined.
 
 <br />
+<br />
 
 1. Select the Document Tasks tab at the bottom of the Use Case page
 2. Create a document task
@@ -180,23 +181,23 @@ Now that we have Document Intelligence configured for our use case, we can creat
 <br />
 <br />
 
-<img width="807" alt="image" src="https://github.com/vmarrone/Doc-Intel-2024/assets/151243933/6e37667c-2ec0-4cb5-a62c-e610383ba52e">
+<img width="807" alt="image" src="https://github.com/vmarrone/Doc-Intel-2024/assets/151243933/9d6aa690-c957-4f20-8b79-9ed8c09ddb3b">
 
 <br />
-<br />
 
-3. Name the document task:
-  - Visitor Test 1
+3. Name the document task: Visitor Test 1
     
 <br />
 
-4. Add the Attachment:
-  - Upload the Driver's License provided with this lab
+4. Add the Attachment: Upload the Driver's License provided with this lab
 
 <br />
 
 5. Click **Add Extraction**
     
+<br />
+<br />
+
 
 
 
