@@ -181,9 +181,6 @@ Now that we have Document Intelligence configured for our use case, we can creat
 <br />
 <br />
 
-<img width="807" alt="image" src="https://github.com/vmarrone/Doc-Intel-2024/assets/151243933/9d6aa690-c957-4f20-8b79-9ed8c09ddb3b">
-
-<br />
 
 3. Name the document task: Visitor Test 1
     
@@ -191,6 +188,12 @@ Now that we have Document Intelligence configured for our use case, we can creat
 
 4. Add the Attachment: Upload the Driver's License provided with this lab
 
+<br />
+<br />
+
+<img width="807" alt="image" src="https://github.com/vmarrone/Doc-Intel-2024/assets/151243933/9d6aa690-c957-4f20-8b79-9ed8c09ddb3b">
+
+<br />
 <br />
 
 5. Click **Add Extraction**
