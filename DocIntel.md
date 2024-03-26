@@ -93,6 +93,7 @@ Choose a name that reflects the purpose of the document processing workflow you 
 <img width="600" alt="image" src="https://github.com/vmarrone/Doc-Intel-2024/assets/151243933/faaec75c-78c9-4d1f-aec1-5fe761386327">
 <br />
 <br />
+
 3. Identify which fields should be extracted from our Visitor's IDs and map to the target fields in the table that we've identified for this use case:
    - **Field Name:** First Name
    - **Target Table:** visitors (pre-selected)
@@ -101,6 +102,7 @@ Choose a name that reflects the purpose of the document processing workflow you 
    - **Required:** Keep Checked
    - **Create More Single Fields:** Select this toggle since we are entering multiple fields - it will keep the field screen open after we save.
    - **Click Save**
+
 <br />
 <br />
 4. Repeat the same steps to create fields for:
@@ -109,11 +111,13 @@ Choose a name that reflects the purpose of the document processing workflow you 
    
    - **Field Name:** DOB
    - **Target Field:** visitor dob (visitor_dob)
+
 <br />
 <br />
 5. Review the Fields tab to ensure all of the columns are correct:
 <br />
 <br />
+
 <img width="1912" alt="image" src="https://github.com/vmarrone/Doc-Intel-2024/assets/151243933/a952f610-b81c-4388-be07-63365a2c8e53">
 
 <br />
