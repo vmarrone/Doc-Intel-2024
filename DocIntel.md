@@ -41,7 +41,7 @@ On the Home tab, the dashboard provides a quick glance at Doc Intel performance 
 <br />
 <br />
 
-## Create a use case
+## Create a Use Case
 
 Create a use case so that you can identify a document or set of documents that must be processed together in Document Intelligence. For example, invoices or drivier's licenses.
 
@@ -124,3 +124,12 @@ Choose a name that reflects the purpose of the document processing workflow you 
 
 <br />
 <br />
+
+## Configure Data Extraction Modes
+
+The extraction modes determine how the data is extracted in the document task. The mode changes the behavior of the fields in the Document Intelligence workspace. There are three types of extraction modes:
+
+<br />
+<br />
+
+<img width="1528" alt="image" src="https://github.com/vmarrone/Doc-Intel-2024/assets/151243933/4b813a5e-f162-400f-aa63-41d63ac5e020">
