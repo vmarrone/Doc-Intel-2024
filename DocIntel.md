@@ -165,7 +165,7 @@ The extraction modes determine how the data is extracted in the document task. T
    
 ## Creating Document Tasks
 <br />
-Now that we have Document Intelligence configured for our use case, we can create document tasks to review how the AI detected the fields that we've defined.
+Now that we have Document Intelligence configured for our use case, we can create document tasks to review how AI detected the fields that we've defined.
 
 <br />
 <br />
@@ -205,5 +205,10 @@ Now that we have Document Intelligence configured for our use case, we can creat
 <br />
 
 
+6. The Document tasks tab will display the task you just created. Document Intelligence will take a minute or two to process the task
 
+<br />
+
+7. Click on the refresh button until the "Is Processed" column displays "true"
+   - If the value is "false", Doc Intel is still processing the task.
 
