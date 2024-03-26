@@ -109,10 +109,10 @@ Choose a name that reflects the purpose of the document processing workflow you 
 4. Repeat the same steps to create fields for:
 
    - **Field Name:** Last Name
-   - - **Target Field**: visitor lastname (visitor_lastname)
+    - **Target Field**: visitor lastname (visitor_lastname)
 
    - **Field Name:** DOB
-   - - **Target Field:** visitor dob (visitor_dob)
+    - **Target Field:** visitor dob (visitor_dob)
 
 <br />
 <br />
