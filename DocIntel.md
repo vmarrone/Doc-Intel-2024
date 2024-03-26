@@ -147,7 +147,7 @@ The extraction modes determine how the data is extracted in the document task. T
 <br />
 <br />
 
-2. By default, the Recommendation extraction mode is turned on. Toggle on:
+2. By default, the Recommendation extraction mode is turned on. **Toggle on:**
    - Auto-fill mode with 60% for both thresholds
       - Auto-fill mode will populate the fields as long as Doc Intel has a confidence rate of 60% or higher that the extracted information is correct and will still require an Agent's review.
    - Fully Automated mode with 90% threshold
@@ -161,5 +161,42 @@ The extraction modes determine how the data is extracted in the document task. T
 <br />
 <br />
 
-3. Click Save
+3. Click **Save**
    
+## Creating Document Tasks
+<br />
+Now that we have Document Intelligence configured for our use case, we can create document tasks to review how the AI detected the fields that we've defined.
+
+<br />
+
+1. Select the Document Tasks tab at the bottom of the Use Case page
+2. Create a document task
+
+<br />
+<br />
+
+<img width="1918" alt="image" src="https://github.com/vmarrone/Doc-Intel-2024/assets/151243933/019ee8a2-c97f-42f1-9718-523d2f136a58">
+
+<br />
+<br />
+
+<img width="807" alt="image" src="https://github.com/vmarrone/Doc-Intel-2024/assets/151243933/6e37667c-2ec0-4cb5-a62c-e610383ba52e">
+
+<br />
+<br />
+
+3. Name the document task:
+  - Visitor Test 1
+    
+<br />
+
+4. Add the Attachment:
+  - Upload the Driver's License provided with this lab
+
+<br />
+
+5. Click **Add Extraction**
+    
+
+
+
