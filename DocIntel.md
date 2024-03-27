@@ -317,3 +317,37 @@ There are two types of integrations to choose from:
    - The **Extract Values** type: creates an integration point to automatically propagate the extracted values to the target table when extraction has been completed in DocIntel (that is, when the document task status changes to Done).
 
 <br />
+
+1. **Click on the Integrations tab** at the bottom of the Use Case workspace
+2. **Click Set up your first integration**
+
+<br />
+<br />
+
+<img width="1917" alt="image" src="https://github.com/vmarrone/Doc-Intel-2024/assets/151243933/cef92231-2675-4663-a4f8-4e375a16fbd3">
+
+<br />
+<br />
+
+3. **Name your Integration:** Visitor ID Extraction
+4. **Select the type of Integration:** Process Task
+   - Acme's current 'Visitor Access' process is to receive visitor information via email - As part of the process improvement, we have added a catalog item to request Visitor Access, which will be the trigger for Doc Intel to process.
+5. **Conditions:** can be left blank
+6. **Create Flow:** Select Checkbox
+7. **Save**
+
+<br />
+<br />
+
+<img width="808" alt="image" src="https://github.com/vmarrone/Doc-Intel-2024/assets/151243933/5e7befd5-4644-4726-a8fa-5a62f80aacc0">
+
+<br />
+<br />
+
+8. In the Integrations tab, **click on the Flow** that we just created to open in Flow Designer
+
+<br />
+<br />
+
+<img width="1917" alt="image" src="https://github.com/vmarrone/Doc-Intel-2024/assets/151243933/4752337b-2a00-4612-8432-4d0c175530c3">
+
