@@ -203,13 +203,15 @@ Now that we have Document Intelligence configured for our use case, we can creat
     
 <br />
 
-
 6. The Document tasks tab will display the task you just created.
+
 <br />
 
 7. Document Intelligence will take a minute or two to process the task
    - **Click on the refresh button** until the "Is Processed" column displays "true"
      - If the value is "false", Doc Intel is still processing the task.
+
+<br />
 
 8. Once the value is "true", open the Visitor Test 1 task
 
