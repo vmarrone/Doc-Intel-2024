@@ -233,22 +233,24 @@ Now that we have Document Intelligence configured for our use case, we can creat
 <br />
 <br />
 
-10. **Reviewing the Fields**
-
 The Document Intelligence view opens in a new tab and displays the uploaded document and the fields defined. Since this is the first document for this use case, the confidence thresholds have not been met for Auto-fill or Fully Automated processing.
+
+<br />
 
 Agents will manually review documents and train AI until the indicated confidence score thresholds are met.
 
-**Simply help train AI with the following steps:**
+<br />
 
-- **Select the DOB Field** on the right pane
-- **Start typing the DOB** as it appears on the DL
-- **Hover your mouse over the correct DOB** (08/31/1977)
-   - The % displayed is the confidence score
-- **Doc Intel will display a purple box on the document** to indicate where that field is extracted from.
-- **Select the correct value** to train AI
+10. **Review the extracted fields & help train AI:**
 
-- **Repeat these steps for First Name & Last Name.**
+ - **Select the DOB Field** on the right pane
+ - **Start typing the DOB** as it appears on the DL
+ - **Hover your mouse over the correct DOB**
+    - The % displayed is the confidence score
+ - **Doc Intel will display a purple box on the document** to indicate where that field is extracted from.
+ - **Select the correct value** to train AI
+
+- **Repeat these steps for the other extracted values** (First Name & Last Name)
 
 - Click **Submit**
 
@@ -257,13 +259,14 @@ Agents will manually review documents and train AI until the indicated confidenc
 <br />
 <br /> 
 
-11. Navigate back to your instance
+11. **Navigate back** to your instance
 
 <br />
 
-12. Create 3 more Document Tasks & upload the DL
-    - Once processed, review the document task, select the correct values, and notice the confidence score each time
-    - Note: a minimum of 10 document tasks with attachments is recommended to help train AI 
+12. **Create 3 more Document Tasks & upload the DL**
+    - Once processed, open the tasks in the Document Intelligence view
+    - Repeat the steps above to train AI by selecting the correct values and notice the confidence score each time
+      - Note: In this lab, we are only creating a few tasks to train AI. Best practice would be to train using a minimum of 10 document tasks, with attachments, for each use case before going live.
 
 <br />
 
