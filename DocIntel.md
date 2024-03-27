@@ -233,19 +233,34 @@ Now that we have Document Intelligence configured for our use case, we can creat
 
 10. **Reviewing the Fields**
 
-The Document Intelligence view displays the uploaded document and the fields defined. Since this is the first document for this use case, the confidence thresholds have not been met for Auto-fill or Fully Automated processing.
+The Document Intelligence view opens in a new tab and displays the uploaded document and the fields defined. Since this is the first document for this use case, the confidence thresholds have not been met for Auto-fill or Fully Automated processing.
+
+Agents will manually review documents and train the AI until the indicated confidence score thresholds are met.
 
 Simply help train AI by:
 
-- Selecting the DOB Field on the right pane
-- Start typing the DOB as it appears on the DL
-- Hover your mouse over the correct DOB (08/31/1977)
-- Doc Intel will display a purple box to indicate where that field is extracted from on the document
-- Select the correct result to train AI
+- **Selecting the DOB Field** on the right pane
+- **Start typing the DOB** as it appears on the DL
+- **Hover your mouse over the correct DOB** (08/31/1977)
+   - The % displayed is the confidence score
+- **Doc Intel will display a purple box** on the document to indicate where that field is being extracted from.
+- **Select the correct value** to train AI
 
-Repeat these steps for First Name & Last Name.
+**Repeat these steps for First Name & Last Name.**
 
-Click Submit
+Click **Submit**
 
 <img width="1909" alt="image" src="https://github.com/vmarrone/Doc-Intel-2024/assets/151243933/dbfe7fa1-f4c9-47fb-8fa9-1035cc898442">
 
+<br />
+<br /> 
+
+11. Navigate back to your instance
+
+<br />
+
+12. Create 3 more Document Tasks & upload the DL
+    - Once processed, review the document task, select the correct values, and notice the confidence score each time
+    - Note: a minimum of 10 document tasks with attachments is recommended to help train AI 
+   
+As Doc Intel continues to process documents in this use case, the confidence score will rise and eventually auto-fill/fully automated extraction will be achieved.
