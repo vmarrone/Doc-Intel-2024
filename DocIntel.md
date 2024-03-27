@@ -239,13 +239,13 @@ The Document Intelligence view opens in a new tab and displays the uploaded docu
 
 Agents will manually review documents and train AI until the indicated confidence score thresholds are met.
 
-Simply help train AI by:
+**Simply help train AI with the following steps:**
 
-- **Selecting the DOB Field** on the right pane
+- **Select the DOB Field** on the right pane
 - **Start typing the DOB** as it appears on the DL
 - **Hover your mouse over the correct DOB** (08/31/1977)
    - The % displayed is the confidence score
-- **Doc Intel will display a purple box** on the document to indicate where that field is being extracted from.
+- **Doc Intel will display a purple box on the document** to indicate where that field is extracted from.
 - **Select the correct value** to train AI
 
 - **Repeat these steps for First Name & Last Name.**
