@@ -351,3 +351,23 @@ There are two types of integrations to choose from:
 
 <img width="1917" alt="image" src="https://github.com/vmarrone/Doc-Intel-2024/assets/151243933/4752337b-2a00-4612-8432-4d0c175530c3">
 
+<br />
+<br />
+
+
+9. **Define the Trigger** for the workflow:
+    - Trigger: Created
+    - Table: visitors [x_snc_visitoracc_0_visitors]
+
+<br />
+<br />
+
+<img width="1076" alt="image" src="https://github.com/vmarrone/Doc-Intel-2024/assets/151243933/851f6f8f-c4f2-449c-b184-d97f7d0a1f7d">
+
+
+<br />
+<br />
+
+
+10. **Define the Actions**
+    - 
