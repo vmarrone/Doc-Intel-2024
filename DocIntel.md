@@ -101,16 +101,25 @@ Choose a name that reflects the purpose of the document processing workflow you 
 
 1. Once you've opened the Use Case, **click on Define your fields** at the bottom of the page
 
+<br />
+
 <img width="1918" alt="image" src="https://github.com/vmarrone/Doc-Intel-2024/assets/151243933/ff0887a1-eb74-4762-8520-e517b318b836">
  <br />
  <br />
 
+
 2. Select Single Field
+
+   
 <br />
 <br />
+
+
 <img width="600" alt="image" src="https://github.com/vmarrone/Doc-Intel-2024/assets/151243933/faaec75c-78c9-4d1f-aec1-5fe761386327">
 <br />
 <br />
+
+
 
 3. Identify which fields should be extracted from our Visitor's IDs and map to the target fields in the table that we've identified for this use case:
    - **Field Name:** First Name
@@ -120,6 +129,8 @@ Choose a name that reflects the purpose of the document processing workflow you 
    - **Required:** Keep Checked
    - **Create More Single Fields:** Select this toggle since we are entering multiple fields - it will keep the field screen open after we save.
    - **Click Save**
+
+
 
 <br />
 <br />
@@ -183,6 +194,7 @@ There are three types of extraction modes:
 
 <br />
 <br />
+
 
 3. Click **Save**
 
