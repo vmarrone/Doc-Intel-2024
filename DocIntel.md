@@ -237,7 +237,7 @@ Now that we have Document Intelligence configured for our use case, we can creat
 
 The Document Intelligence view opens in a new tab and displays the uploaded document and the fields defined. Since this is the first document for this use case, the confidence thresholds have not been met for Auto-fill or Fully Automated processing.
 
-Agents will manually review documents and train the AI until the indicated confidence score thresholds are met.
+Agents will manually review documents and train AI until the indicated confidence score thresholds are met.
 
 Simply help train AI by:
 
@@ -248,9 +248,9 @@ Simply help train AI by:
 - **Doc Intel will display a purple box** on the document to indicate where that field is being extracted from.
 - **Select the correct value** to train AI
 
-**Repeat these steps for First Name & Last Name.**
+- **Repeat these steps for First Name & Last Name.**
 
-Click **Submit**
+- Click **Submit**
 
 <img width="1909" alt="image" src="https://github.com/vmarrone/Doc-Intel-2024/assets/151243933/dbfe7fa1-f4c9-47fb-8fa9-1035cc898442">
 
