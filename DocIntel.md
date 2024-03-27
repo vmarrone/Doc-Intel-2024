@@ -1,4 +1,6 @@
-## Doc Intel Lab
+## **Doc Intel Lab**
+
+<br />
 
 ## Introduction
 
@@ -8,15 +10,27 @@ Many organizations today use simple optical character recognition (OCR) solution
 
 We added this capability on the platform so the data extraction from documents can easily be done but also for our customer to be able to do this from within their own Workflows on the platform. A lot of processes still involve digital documents, this can be a useful capability as organisation are progressing on their hyperautomation journey.
 
+<br />
+<br />
+
+
 ## Goal
 
 In this lab, we will configure Doc Intel to automate the extraction of data from a physical form of identification (Driver's License, Government Issued ID, Passport, etc.) in order to drive efficiency.
+
+<br />
+<br />
+
 
 ## Use Case
 
 ACME Inc. has a mandate to automate as much as possible within their organization to drive efficiency, reduce costs, and improve user experience. They have identified their current 'Visitor Access' process as highly repetitive and time consuming for their agents. In the current process, agents receive visitor's information via email and manually enter the required fields, into the Badging Application, in order for a vistor's badge to be printed.
 
 As a member of ACME Inc.'s Automation Center of Excellence, you have been contacted to automate the task of a collecting visitor information, from their driver’s license or other form of physical identification, in order to streamline the process and reduce manual efforts.
+
+<br />
+<br />
+
 
 ## Doc Intel Admin Workspace
 
@@ -40,6 +54,7 @@ On the Home tab, the dashboard provides a quick glance at Doc Intel performance 
 
 <br />
 <br />
+
 
 ## Create a Use Case
 
@@ -73,6 +88,9 @@ Choose a name that reflects the purpose of the document processing workflow you 
 
 
 <img width="1913" alt="image" src="https://github.com/vmarrone/Doc-Intel-2024/assets/151243933/01f28db7-91d2-4ab6-b85f-d9de324dc188">
+
+<br />
+<br />
 
 
 ## Create Fields
@@ -125,9 +143,14 @@ Choose a name that reflects the purpose of the document processing workflow you 
 <br />
 <br />
 
+
 ## Configure Data Extraction Modes
 
-The extraction modes determine how the data is extracted in the document task. The mode changes the behavior of the fields in the Document Intelligence workspace. There are three types of extraction modes:
+The extraction modes determine how the data is extracted in the document task. The mode changes the behavior of the fields in the Document Intelligence workspace. 
+
+<br />
+
+There are three types of extraction modes:
 
 <br />
 
@@ -162,7 +185,11 @@ The extraction modes determine how the data is extracted in the document task. T
 <br />
 
 3. Click **Save**
-   
+
+<br />
+<br />
+
+
 ## Creating Document Tasks
 <br />
 Now that we have Document Intelligence configured for our use case, we can create document tasks to review how AI detected the fields that we've defined.
@@ -271,3 +298,22 @@ Agents will manually review documents and train AI until the indicated confidenc
 <br />
 
 As Doc Intel continues to process documents in this use case, the confidence score will rise and eventually auto-fill/fully automated extraction will be achieved.
+
+<br />
+<br />
+
+
+## Integrations
+
+<br />
+
+Now that our use case is configured and we've helped train AI to build the confidence score, we are ready to integrate Doc Intel into a workflow.
+
+<br />
+
+There are two types of integrations to choose from:
+<br />
+   - The **Process Task** type: creates an integration point to automatically create and process DocIntel document tasks based on specific triggers happening in the target table.
+   - The **Extract Values** type: creates an integration point to automatically propagate the extracted values to the target table when extraction has been completed in DocIntel (that is, when the document task status changes to Done).
+
+<br />
