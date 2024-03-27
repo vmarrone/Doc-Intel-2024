@@ -211,3 +211,41 @@ Now that we have Document Intelligence configured for our use case, we can creat
    - **Click on the refresh button** until the "Is Processed" column displays "true"
      - If the value is "false", Doc Intel is still processing the task.
 
+8. Once the value is "true", open the Visitor Test 1 task
+
+<br />
+<br />
+
+<img width="1916" alt="image" src="https://github.com/vmarrone/Doc-Intel-2024/assets/151243933/78e22982-bb66-4137-84b5-cc2cf24996d4">
+
+<br />
+<br />
+
+9. **Open in Document Intelligence** to see how AI detected the fields
+
+<br />
+<br />
+
+<img width="804" alt="image" src="https://github.com/vmarrone/Doc-Intel-2024/assets/151243933/39b143f7-2938-40ee-b28f-02a94362b45c">
+
+<br />
+<br />
+
+10. **Reviewing the Fields**
+
+The Document Intelligence view displays the uploaded document and the fields defined. Since this is the first document for this use case, the confidence thresholds have not been met for Auto-fill or Fully Automated processing.
+
+Simply help train AI by:
+
+- Selecting the DOB Field on the right pane
+- Start typing the DOB as it appears on the DL
+- Hover your mouse over the correct DOB (08/31/1977)
+- Doc Intel will display a purple box to indicate where that field is extracted from on the document
+- Select the correct result to train AI
+
+Repeat these steps for First Name & Last Name.
+
+Click Submit
+
+<img width="1909" alt="image" src="https://github.com/vmarrone/Doc-Intel-2024/assets/151243933/dbfe7fa1-f4c9-47fb-8fa9-1035cc898442">
+
