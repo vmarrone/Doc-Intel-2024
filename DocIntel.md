@@ -264,5 +264,7 @@ Agents will manually review documents and train AI until the indicated confidenc
 12. Create 3 more Document Tasks & upload the DL
     - Once processed, review the document task, select the correct values, and notice the confidence score each time
     - Note: a minimum of 10 document tasks with attachments is recommended to help train AI 
-   
+
+<br />
+
 As Doc Intel continues to process documents in this use case, the confidence score will rise and eventually auto-fill/fully automated extraction will be achieved.
