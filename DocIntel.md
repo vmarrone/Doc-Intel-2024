@@ -62,13 +62,14 @@ On the Home tab, the dashboard provides a quick glance at Doc Intel performance 
 Create a use case so that you can identify a document or set of documents that must be processed together in Document Intelligence. For example, invoices or drivier's licenses.
 
 1. Click on the **Use Cases tab** and then click **New use case**
+2. **Define a new use case**
 
 <br />
 <img width="1912" alt="image" src="https://github.com/vmarrone/Doc-Intel-2024/assets/151243933/9f5a2f37-7b31-424d-a41e-1e7792860dce">
 <br />
 <br />
 
-2. **Define a new use case**
+
 <br />
 Choose a name that reflects the purpose of the document processing workflow you want to improve and select a table to store the document processing results for this use case:
 
