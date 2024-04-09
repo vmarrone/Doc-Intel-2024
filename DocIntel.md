@@ -24,7 +24,8 @@ In this lab, we will configure Doc Intel to automate the extraction of data from
 
 ## Use Case
 
-ACME Inc. has a mandate to automate as much as possible within their organization to drive efficiency, reduce costs, and improve user experience. They have identified their current 'Visitor Access' process as highly repetitive and time consuming for their agents. In the current process, agents receive visitor's information via email and manually enter the required fields, into the Badging Application, in order for a vistor's badge to be printed.
+ACME Inc. has a mandate to automate as much as possible within their organization to drive efficiency, reduce costs, and improve user experience. They have identified their current 'Visitor Access' process as highly repetitive and time consuming for their agents. In the current process, agents receive visitor information via email and need to manually enter it into the Badging Application to print a visitor's badge.
+
 
 As a member of ACME Inc.'s Automation Center of Excellence, you have been contacted to automate the task of a collecting visitor information, from their driver’s license or other form of physical identification, in order to streamline the process and reduce manual efforts.
 
