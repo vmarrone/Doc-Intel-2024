@@ -121,7 +121,7 @@ Choose a name that reflects the purpose of the document processing workflow you 
 
 
 
-3. Identify which fields should be extracted from our Visitor's IDs and map to the target fields in the table that we've identified for this use case:
+3. Identify which fields should be extracted from our Visitor's IDs and map to the target fields in the table that we've selected for this use case:
    - **Field Name:** First Name
    - **Target Table:** visitors (pre-selected)
    - **Type:** Text
