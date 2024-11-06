@@ -75,9 +75,9 @@ Choose a name that reflects the purpose of the document processing workflow you 
 
 - **Name:** Visitor Access IDs
 
-- **Location for the extracted data:** Visitor IDs
+- **Location for the extracted data:** visitors (x_snc_visitoracc_0_visitors)
 
-<img width="810" alt="image" src="https://github.com/vmarrone/Doc-Intel-2024/assets/151243933/44bb3910-d1a0-4b18-95b8-3bdb77f3ad20">
+<img width="799" alt="image" src="https://github.com/user-attachments/assets/1f36b6b8-8743-4883-9c5d-fb71245bd487">
 
 <br />
 <br />
