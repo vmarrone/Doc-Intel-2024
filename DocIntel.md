@@ -185,12 +185,14 @@ There are three types of extraction modes:
 <br />
 <br />
 
-2. By default, the Recommendation extraction mode is turned on.
+2. By default, the Recommendation extraction mode is turned on and requires Agent input to train the model.
+
+ In a real scenario, we want to automate the data extraction after the model has been trained. To do this, we can turn on Auto-Fill mode and Fully Automated mode:
   
    **Toggle on:**
-   - Auto-fill mode with 60% for both thresholds
+   - **Auto-fill mode** with 60% for both thresholds
       - Auto-fill mode will populate the fields as long as Doc Intel has a confidence rate of 60% or higher that the extracted information is correct and will still require an Agent's review.
-   - Fully Automated mode with 90% threshold
+   - **Fully Automated mode** with 90% threshold
       - Fully Automated mode will populate the fields and skip the Agent's review as long as Doc Intel has a confidence rate of 90% or higher that the extracted information is correct.
 
 
