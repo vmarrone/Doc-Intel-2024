@@ -8,7 +8,7 @@ Document Intelligence is a machine learning (ML) solution that provides assistan
 
 Many organizations today use simple optical character recognition (OCR) solutions to extract data from documents that requires significant manual configuration, and also often requires manual changes as the documents evolve. Document Intelligence extends beyond the simple OCR by using ML to identify, understand, and extract text and data from documents. This enables you to accurately automate document processing and accurately extract information from documents, even when the documents have varied text, data, and templates.
 
-We added this capability on the platform so the data extraction from documents can easily be done but also for our customer to be able to do this from within their own Workflows on the platform. A lot of processes still involve digital documents, this can be a useful capability as organisation are progressing on their hyperautomation journey.
+We added this capability on the platform so the data extraction from documents can easily be done but also for our customer to be able to do this from within their own Workflows on the platform. A lot of processes still involve digital documents so this can be a useful capability as organizations are progressing on their hyperautomation journey.
 
 <br />
 <br />
@@ -17,6 +17,8 @@ We added this capability on the platform so the data extraction from documents c
 ## Goal
 
 In this lab, we will configure Doc Intel to automate the extraction of data from a physical form of identification (Driver's License, Government Issued ID, Passport, etc.) in order to drive efficiency.
+
+The goal of this lab is to highlight how quickly Doc Intel can be set up for new use cases.
 
 <br />
 <br />
