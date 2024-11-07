@@ -177,7 +177,7 @@ There are three types of extraction modes:
 
 <br />
 
-<img width="1913" alt="image" src="https://github.com/vmarrone/Doc-Intel-2024/assets/151243933/4090dc7a-2e83-4592-bb1f-d0654af87944">
+<img width="1917" alt="image" src="https://github.com/user-attachments/assets/0ed88baa-556e-43f6-a1d0-22f9ef15b63f">
 
 <br />
 <br />
