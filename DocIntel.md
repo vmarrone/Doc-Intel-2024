@@ -344,7 +344,7 @@ There are two types of integrations to choose from:
 <br />
 <br />
 
-<img width="1919" alt="image" src="https://github.com/user-attachments/assets/4ec5bca9-ed20-4dc3-9220-3a2d0e0482e2">
+<img width="1910" alt="image" src="https://github.com/user-attachments/assets/136e3653-bd6c-4696-97bb-be2600f49c9b">
 
 <br />
 <br />
