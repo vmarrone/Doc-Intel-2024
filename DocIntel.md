@@ -286,7 +286,7 @@ Agents will manually review documents and train AI until the indicated confidenc
 
  - **Select the DOB Field** on the right pane
  - **Start typing the DOB** as it appears on the DL
- - **Hover your mouse over the correct DOB**
+ - **Hover your mouse over the correct DOB in the drop down list**
     - The % displayed is the confidence score
  - **Doc Intel will display a purple box on the document** to indicate where that field is extracted from.
  - **Select the correct value** to train AI
