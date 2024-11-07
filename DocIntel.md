@@ -151,7 +151,7 @@ Choose a name that reflects the purpose of the document processing workflow you 
 <br />
 <br />
 
-<img width="1912" alt="image" src="https://github.com/vmarrone/Doc-Intel-2024/assets/151243933/a952f610-b81c-4388-be07-63365a2c8e53">
+<img width="1916" alt="image" src="https://github.com/user-attachments/assets/5d6f0918-5c5a-4a07-bd16-3d0896199fad">
 
 <br />
 <br />
