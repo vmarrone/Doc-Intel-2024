@@ -338,7 +338,7 @@ There are two types of integrations to choose from:
 <br />
 <br />
 
-<img width="1917" alt="image" src="https://github.com/vmarrone/Doc-Intel-2024/assets/151243933/cef92231-2675-4663-a4f8-4e375a16fbd3">
+<img width="1919" alt="image" src="https://github.com/user-attachments/assets/4ec5bca9-ed20-4dc3-9220-3a2d0e0482e2">
 
 <br />
 <br />
