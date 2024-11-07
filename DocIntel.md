@@ -304,7 +304,7 @@ Agents will manually review documents and train AI until the indicated confidenc
 
 <br />
 
-12. **Create 3 more Document Tasks & upload the DL**
+12. **Create 3 more Document Tasks & upload the DL (Repeat Steps 2 - 10)**
     - Once processed, open the tasks in the Document Intelligence view
     - Repeat the steps above to train AI by selecting the correct values and notice the confidence score each time
       - Note: In this lab, we are only creating a few tasks to train AI. Best practice would be to train using a minimum of 10 document tasks, with attachments, for each use case before going live.
