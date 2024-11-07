@@ -187,7 +187,7 @@ There are three types of extraction modes:
 
 2. By default, the Recommendation extraction mode is turned on and requires Agent input to train the model.
 
- In a real scenario, we want to automate the data extraction after the model has been trained. To do this, we can turn on Auto-Fill mode and Fully Automated mode:
+   In a real scenario, we want to automate the data extraction after the model has been trained. To do this, we can turn on Auto-Fill mode and Fully Automated mode:
   
    **Toggle on:**
    - **Auto-fill mode** with 60% for both thresholds
