@@ -220,7 +220,7 @@ Now that we have Document Intelligence configured for our use case, we can creat
 <br />
 <br />
 
-<img width="1918" alt="image" src="https://github.com/vmarrone/Doc-Intel-2024/assets/151243933/019ee8a2-c97f-42f1-9718-523d2f136a58">
+<img width="1916" alt="image" src="https://github.com/user-attachments/assets/73331336-6fa3-473e-9bee-09a146afaa47">
 
 <br />
 <br />
