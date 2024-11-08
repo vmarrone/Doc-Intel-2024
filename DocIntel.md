@@ -18,7 +18,7 @@ We added this capability on the platform so the data extraction from documents c
 
 In this lab, we will configure Doc Intel to automate the extraction of data from a physical form of identification (Driver's License, Government Issued ID, Passport, etc.) in order to drive efficiency.
 
-The goal of this lab is to highlight how quickly Doc Intel can be set up for new use cases.
+The goal of this lab is to highlight how quickly Doc Intel can be configured and trained for new use cases.
 
 <br />
 <br />
