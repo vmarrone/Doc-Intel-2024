@@ -31,6 +31,8 @@ ACME Inc. has a mandate to automate as much as possible within their organizatio
 
 As a member of ACME Inc.'s Automation Center of Excellence, you have been contacted to automate the task of a collecting visitor information, from their driver’s license or other form of physical identification, in order to streamline the process and reduce manual efforts.
 
+In the new Visitor Access process, Agent's will no longer receive emails w/ visotor information; instead, employees will submit their visitor request via a catalog item & attach a copy of the vistor's identification, which will trigger the workflow to engage Doc Intel.
+
 <br />
 <br />
 
@@ -359,7 +361,7 @@ There are two types of integrations to choose from:
 <br />
 <br />
 
-<img width="808" alt="image" src="https://github.com/vmarrone/Doc-Intel-2024/assets/151243933/5e7befd5-4644-4726-a8fa-5a62f80aacc0">
+![image](https://github.com/user-attachments/assets/1431dbed-95a7-4cff-a178-4a1b4bc9977a)
 
 <br />
 <br />
@@ -369,7 +371,7 @@ There are two types of integrations to choose from:
 <br />
 <br />
 
-<img width="1917" alt="image" src="https://github.com/vmarrone/Doc-Intel-2024/assets/151243933/4752337b-2a00-4612-8432-4d0c175530c3">
+<img width="1915" alt="image" src="https://github.com/user-attachments/assets/3112e608-6374-4ca4-8b5a-cf6b87cb4fc5">
 
 <br />
 <br />
