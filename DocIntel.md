@@ -31,7 +31,7 @@ ACME Inc. has a mandate to automate as much as possible within their organizatio
 
 As a member of ACME Inc.'s Automation Center of Excellence, you have been contacted to automate the task of a collecting visitor information, from their driver’s license or other form of physical identification, in order to streamline the process and reduce manual efforts.
 
-In the new process, Agents will no longer receive emails with visitor information - instead, employees will submit their visitor request via a catalog item & attach a copy of the vistor's identification. Once that request has been created in the target table, it will trigger the workflow to engage Doc Intel.
+In the new process, Agents will no longer receive emails with visitor information - instead, employees will submit their visitor request via a catalog item & attach a copy of the vistor's identification. Once that request record has been created in the target table, it will trigger the workflow to engage Doc Intel.
 
 <br />
 <br />
