@@ -1,4 +1,4 @@
-## **Doc Intel Lab** 2024 - Xanadu
+## **Doc Intel Lab** - 2024 - Xanadu
 
 <br />
 
