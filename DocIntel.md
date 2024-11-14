@@ -362,7 +362,7 @@ There are two types of integrations to choose from:
 
 3. **Name your Integration:** Visitor ID Extraction
 4. **Select the type of Integration:** Process Task
-   - Acme's current 'Visitor Access' process is to receive visitor information via email - As part of the process improvement, we have added a catalog item to request Visitor Access, which will be the trigger for Doc Intel to process.
+   - Acme's current 'Visitor Access' process is to receive visitor information via email - As part of the process improvement, we have added a catalog item to request Visitor Access, which will be the trigger for Doc Intel to process once a record has been created in the target table.
 5. **Conditions:** can be left blank
 6. **Create Flow:** Select Checkbox
 7. **Save**
