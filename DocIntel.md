@@ -326,7 +326,7 @@ As Doc Intel continues to process documents in this use case, the confidence sco
 
 ## You have successfully completed the lab!
 
-To recap, the intent of this lab is to showcase how quickly Doc Intel can be configured for new use cases.
+To recap, the intent of this lab was to showcase how quickly Doc Intel can be configured for new use cases.
 
 Now that our use case is configured and we've helped train AI to build the confidence score, the next step is to integrate Doc Intel into a workflow. 
 
