@@ -324,12 +324,16 @@ As Doc Intel continues to process documents in this use case, the confidence sco
 <br />
 <br />
 
+## You have successfully completed the lab!
 
-## Integrations
+To recap, the intent of this lab is to showcase how quickly Doc Intel can be configured for new use cases.
+
+Now that our use case is configured and we've helped train AI to build the confidence score, the next step is to integrate Doc Intel into a workflow. The Bonus section below outlines the initial steps to integrate a use case from the Doc Intel workspace.
+
+## Bonus Section :Integrations
 
 <br />
 
-Now that our use case is configured and we've helped train AI to build the confidence score, we are ready to integrate Doc Intel into a workflow.
 
 <br />
 
@@ -392,4 +396,4 @@ There are two types of integrations to choose from:
 
 
 10. **Define the Actions**
-    - 
+    - Complete the flow with Actions to automate your unique business process.
