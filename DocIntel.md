@@ -330,6 +330,9 @@ To recap, the intent of this lab is to showcase how quickly Doc Intel can be con
 
 Now that our use case is configured and we've helped train AI to build the confidence score, the next step is to integrate Doc Intel into a workflow. The Bonus section below outlines the initial steps to integrate a use case from the Doc Intel workspace.
 
+<br />
+<br />
+
 ## Bonus Section :Integrations
 
 <br />
