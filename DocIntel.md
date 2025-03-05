@@ -238,7 +238,13 @@ Now that we have Document Intelligence configured for our use case, we can creat
     
 <br />
 
-4. **Add the Attachment:** Upload the Driver's License provided with this lab
+4. **Add the Attachment:** Upload the Driver's License - A sample DL file can be found here: https://github.com/quentincloudsnow/userlookup/blob/main/img/CA%20DL.jpeg
+
+<br />
+<br />
+
+<img width="1593" alt="image" src="https://github.com/user-attachments/assets/d14281a9-0238-466e-8d0f-29f59876f7cd" />
+
 
 <br />
 <br />
